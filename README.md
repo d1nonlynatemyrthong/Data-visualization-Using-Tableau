@@ -1,4 +1,4 @@
-#Task 2 – Data Visualization and Storytelling
+#Task 3 – Data Visualization and Storytelling
 
 ## 🎯 Objective:
 Use Tableau to analyze the Superstore sales dataset and create meaningful, engaging visualizations.
